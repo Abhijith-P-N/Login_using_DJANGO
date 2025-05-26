@@ -71,7 +71,7 @@ Create a file named `.env` in your project root (same directory as `manage.py`):
 ```env
 SECRET_KEY=your-very-secret-key
 DEBUG=True
-DB_NAME=login
+DB_NAME=postgres
 DB_USER=postgres
 DB_PASSWORD=yourpassword
 DB_HOST=localhost
