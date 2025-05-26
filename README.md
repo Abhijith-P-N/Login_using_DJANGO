@@ -34,8 +34,8 @@ A simple Django web application with:
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/Abhijith-P-N/Login_using_DJANGO.git
+cd repositry name
 ```
 
 ### 2. Set up a virtual environment
@@ -146,4 +146,4 @@ yourrepo/
 
 ## License
 
-MIT (or your chosen license)
+MIT 
